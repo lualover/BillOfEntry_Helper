@@ -1,0 +1,10 @@
+1
+D:\\DownloadedFile\\Downloads\\ncmdump-master\\
+C:\\Users\\EasternWood\\Desktop\\c++tmp\\programatwork\\BillOfEntry_Helper\\
+C:\\Users\\zli121\\OneDrive - JNJ\\Desktop\\baoguandan\\baoguandan\\
+C:\\Users\\zli121\\OneDrive - JNJ\\Desktop\\baoguandan\\baoguandan\\FRW\\
+C:\\Users\\zli121\\OneDrive - JNJ\\Desktop\\baoguandan\\baoguandan\\FRP\\
+C:\\Users\\zli121\\OneDrive - JNJ\\Desktop\\baoguandan\\baoguandan\\FRN\\
+C:\\Users\\zli121\\OneDrive - JNJ\\Desktop\\baoguandan\\baoguandan\\FRE\\
+C:\\Users\\zli121\\OneDrive - JNJ\\Desktop\\baoguandan\\baoguandan\\FRB\\
+C:\\Users\\zli121\\OneDrive - JNJ\\Desktop\\baoguandan\\baoguandan\\Other\\
